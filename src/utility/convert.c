@@ -1,7 +1,7 @@
 /**
  * @file convert.c
  * @brief this file contain a functions for data converting
- * (c)2018 Sarov
+ * (c)2018 I.Filippov
  */
 #include "convert.h"
 #include "string.h"

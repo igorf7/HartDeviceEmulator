@@ -1,6 +1,6 @@
 /**
  * @brief convert.h - header file for convert.c
- *        (c)2018 Sarov
+ *        (c)2018 I.Filippov
  */
 #ifndef __CONVERT_H
 #define __CONVERT_H

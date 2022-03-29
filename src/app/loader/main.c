@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * @brief This file contain main application functions
- *        (c)2018 Alcont, Sarov
+ *        (c)2018 I.Filippov
 */
 #include "main.h"
 #include "task.h"

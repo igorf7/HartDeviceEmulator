@@ -1,6 +1,6 @@
 /**
  * @brief Main header file for HartDevice project
- *        (c)2018 Alcont, Sarov
+ *        (c)2018 I.Filippov
  */
 #ifndef __MAIN_H
 #define __MAIN_H
